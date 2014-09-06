@@ -1,3 +1,3 @@
-CODIGOS C BASICOS ;)
+C Programming
 =================
-=D
+Basic logic
