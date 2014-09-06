@@ -26,4 +26,4 @@ int main()
     printf("CALCULO FINAL DA MEDIA: %f, QUANTIDADE DE NUMEROS FINAIS: %i ",calc, i);
     return 0;
 }
-lucasleite.ds@gmail.com
+//lucasleite.ds@gmail.com
