@@ -24,7 +24,7 @@ int main()
         printf("DESEJA DIGITAR OUTRO NUMERO? SE SIM DIGITE 1, SE NAO DIGITE 0: ");
         scanf("%i", &yn);
     }
-    //CALC DIVITE B POR I, ONDE B E O TOTAL, É I E A QUANTIDADE DE NUMEROS DADO
+    //CALC DIVIDE B POR I, ONDE B E O TOTAL, É I E A QUANTIDADE DE NUMEROS DADO
     calc = b/i;
     printf("CALCULO FINAL DA MEDIA: %f, QUANTIDADE DE NUMEROS FINAIS: %i \n\n",calc, i);
     system("PAUSE");
